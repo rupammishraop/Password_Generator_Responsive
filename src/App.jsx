@@ -52,7 +52,7 @@ function App() {
           <div className='passInput'>
             <h1>Password Generator</h1>
             <div className='developerClick'>
-                 <img src="./src/github.png" alt=""
+                 <img src="/src/github.png" alt=""
                    onClick={clickMe} 
                  />
                  <h3>Click Me</h3>
