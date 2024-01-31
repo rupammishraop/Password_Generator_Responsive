@@ -1,11 +1,6 @@
-This is basically a React Project for password generator Randomly
-You can see the code in app.jsx file in scr folder
+The Password Generator web application allows users to generate random 8-16-character passwords, including numbers and special characters if desired.
 
-Technology Used :- 
-React,
-HTML,
-CSS,
-JavaScript,
-Tailwind Css
+This project uses React, HTML, CSS, JavaScript, and Tailwind CSS 
 
-Visit This Link to view projec :- https://rupammishraop.github.io/Password_Generator_Responsive/
+
+The project can be accessed by clicking on the provided link. :- https://rupammishraop.github.io/Password_Generator_Responsive/
